@@ -1,0 +1,68 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family: Arial;
+}
+
+body{
+background: linear-gradient(135deg,#4facfe,#00f2fe);
+padding:30px;
+}
+
+.container{
+background:white;
+padding:25px;
+border-radius:15px;
+max-width:900px;
+margin:auto;
+box-shadow:0 10px 25px rgba(0,0,0,0.2);
+}
+
+.btn{
+padding:8px 15px;
+border-radius:8px;
+color:white;
+text-decoration:none;
+margin:2px;
+display:inline-block;
+}
+
+.btn-tambah{ background:#28a745; }
+.btn-edit{ background:#ffc107; color:black; }
+.btn-hapus{ background:#dc3545; }
+.btn-lihat{ background:#17a2b8; }
+
+table{
+width:100%;
+border-collapse:collapse;
+margin-top:15px;
+}
+
+th{
+background:#4facfe;
+color:white;
+padding:10px;
+}
+
+td{
+padding:10px;
+border-bottom:1px solid #ddd;
+}
+
+input, textarea{
+width:100%;
+padding:10px;
+margin-top:5px;
+border-radius:8px;
+border:1px solid #ccc;
+}
+
+button{
+background:#4facfe;
+color:white;
+border:none;
+padding:10px;
+border-radius:8px;
+margin-top:15px;
+}
