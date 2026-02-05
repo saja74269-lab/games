@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>City Game FULL</title>
+<style>
+body{background:#222;color:white;font-family:Arial;text-align:center}
+button{margin:3px;padding:6px 10px}
+#map{display:grid;grid-template-columns:repeat(15,50px);gap:4px;justify-content:center;margin:10px}
+.tile{width:50px;height:50px;background:#777;position:relative}
+.road{background:#333}
+.house{background:#4caf50}
+.house::after{content:"🏠";position:absolute;top:8px;left:8px;font-size:26px}
+.building{background:#2196f3}
+.building::after{content:"🏢";position:absolute;top:8px;left:8px;font-size:26px}
+.police{background:#0d47a1}
+.police::after{content:"🚓";position:absolute;top:8px;left:8px;font-size:26px}
+.hospital{background:#b71c1c}
+.hospital::after{content:"🏥";position:absolute;top:8px;left:8px;font-size:26px}
+.firestation{background:#bf360c}
+.firestation::after{content:"🚒";position:absolute;top:8px;left:8px;font-size:26px}
+.fire{background:#ff5722!important}
+.fire::after{content:"🔥";position:absolute;top:8px;left:8px;font-size:26px}
+
+.person{width:10px;height:10px;background:yellow;border-radius:50%;position:absolute;top:20px;left:20px}
+.car,.policeCar,.fireCar{position:absolute;top:14px;left:14px;font-size:18px;cursor:pointer}
+.selected{outline:3px solid yellow}
+</style>
+</head>
+<body>
+
+<h2>🏙️ City Game – FULL VERSION</h2>
+
+<div>
+<button onclick="setMode('land')">🌱</button>
+<button onclick="setMode('road')">🛣️</button>
+<button onclick="setMode('house')">🏠</button>
+<button onclick="setMode('building')">🏢</button>
+<button onclick="setMode('police')">🚓</button>
+<button onclick="setMode('hospital')">🏥</button>
+<button onclick="setMode('firestation')">🚒</button>
+</div>
+
+<p>
+Mode: <b id="mode">land</b> |
+👤 <span id="pop">0</span> |
+😊 <span id="happy">50</span>% |
+💰 <span id="money">100</span>
+</p>
+
+<div id="map"></div>
+
+<script>
+const SIZE=15
+const map=document.getElementById("map")
+const modeText=document.getElementById("mode")
+const popText=document.getElementById("pop")
+const happyText=document.getElementById("happy")
+const moneyText=document.getElementById("money")
+
+let mode="land",population=0,money=100,happy=50
+let tiles=[],people=[],cars=[],policeCars=[],fireCars=[]
+let selectedFireCar=null
+
+function setMode(m){mode=m;modeText.textContent=m}
+
+for(let i=0;i<SIZE*SIZE;i++){
+ const t=document.createElement("div")
+ t.className="tile";t.dataset.type="land"
+ t.onclick=()=>onTileClick(i)
+ map.appendChild(t);tiles.push(t)
+}
+
+function onTileClick(i){
+ if(selectedFireCar && tiles[i].dataset.type==="road"){
+  moveFireCar(selectedFireCar,i);return
+ }
+ tiles[i].className="tile "+mode
+ tiles[i].dataset.type=mode
+ if(mode==="house") spawn(i,"",people,"person",true)
+ if(mode==="building") spawn(i,"🚗",cars,"car")
+ if(mode==="police") spawn(i,"🚓",policeCars,"policeCar")
+ if(mode==="firestation") spawnFireCar(i)
+}
+
+function spawn(i,emoji,list,cls,isPerson=false){
+ for(let n of [i-1,i+1,i-SIZE,i+SIZE]){
+  if(tiles[n]&&tiles[n].dataset.type==="road"){
+   const e=document.createElement("div")
+   e.className=cls;e.textContent=emoji
+   tiles[n].appendChild(e)
+   list.push({el:e,pos:n})
+   if(isPerson){population++;popText.textContent=population}
+   return
+  }
+ }
+}
+
+function spawnFireCar(i){
+ for(let n of [i-1,i+1,i-SIZE,i+SIZE]){
+  if(tiles[n]&&tiles[n].dataset.type==="road"){
+   const c=document.createElement("div")
+   c.className="fireCar";c.textContent="🚒"
+   c.onclick=e=>{
+    e.stopPropagation()
+    fireCars.forEach(f=>f.el.classList.remove("selected"))
+    c.classList.add("selected")
+    selectedFireCar=fireCars.find(f=>f.el===c)
+   }
+   tiles[n].appendChild(c)
+   fireCars.push({el:c,pos:n})
+   return
+  }
+ }
+}
+
+function moveFireCar(f,target){
+ const opts=[f.pos-1,f.pos+1,f.pos-SIZE,f.pos+SIZE]
+ if(!opts.includes(target))return
+ tiles[f.pos].removeChild(f.el)
+ tiles[target].appendChild(f.el)
+ f.pos=target
+ [target-1,target+1,target-SIZE,target+SIZE].forEach(n=>{
+  if(tiles[n]&&tiles[n].classList.contains("fire"))
+   tiles[n].classList.remove("fire")
+ })
+}
+
+function moveRandom(list){
+ list.forEach(o=>{
+  const opt=[o.pos-1,o.pos+1,o.pos-SIZE,o.pos+SIZE]
+   .filter(n=>tiles[n]&&tiles[n].dataset.type==="road")
+  if(opt.length){
+   const nx=opt[Math.floor(Math.random()*opt.length)]
+   tiles[o.pos].removeChild(o.el)
+   tiles[nx].appendChild(o.el)
+   o.pos=nx
+  }
+ })
+}
+
+setInterval(()=>moveRandom(people),900)
+setInterval(()=>moveRandom(cars),600)
+setInterval(()=>moveRandom(policeCars),700)
+
+/* 🔥 kebakaran */
+setInterval(()=>{
+ const police=tiles.filter(t=>t.dataset.type==="police").length
+ const chance=Math.max(0.05,0.3-police*0.05)
+ if(Math.random()<chance){
+  const b=tiles.filter(t=>t.dataset.type==="building"&&!t.classList.contains("fire"))
+  if(b.length)b[Math.floor(Math.random()*b.length)].classList.add("fire")
+ }
+},5000)
+
+/* 😊 ekonomi */
+setInterval(()=>{
+ const police=tiles.filter(t=>t.dataset.type==="police").length
+ const hospital=tiles.filter(t=>t.dataset.type==="hospital").length
+ const fire=tiles.filter(t=>t.classList.contains("fire")).length
+
+ happy=50+police*5+hospital*5-fire*10
+ happy=Math.max(0,Math.min(100,happy))
+ happyText.textContent=happy
+
+ money+=Math.floor(population*(happy/50))
+ moneyText.textContent=money
+},3000)
+</script>
+
+</body>
+</html>

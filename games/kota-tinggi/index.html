@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<title>Kota Tinggi</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>🏙️ Kota Tinggi</h2>
+
+<div class="bar">
+💰 <span id="money">100</span> |
+🚶 <span id="pop">0</span>
+</div>
+
+<div class="ui">
+<button onclick="mode='road'">🛣️ Jalan</button>
+<button onclick="mode='res'">🏠 Rumah</button>
+<button onclick="mode='com'">🏪 Toko</button>
+<button onclick="mode='ind'">🏭 Pabrik</button>
+<button onclick="mode='park'">🌳 Taman</button>
+<button onclick="mode='erase'">❌ Hapus</button>
+<button onclick="saveWorld()">💾 Save</button>
+
+<select id="worldSelect" onchange="loadWorld(this.value)">
+<option value="">📂 Pilih World</option>
+</select>
+</div>
+
+<canvas id="game" width="400" height="400"></canvas>
+
+<script src="script.js"></script>
+</body>
+</html>

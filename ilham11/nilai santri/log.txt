@@ -1,0 +1,314 @@
+[2025-08-29 03:58:17] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 03:58:23] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 03:58:43] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 03:58:45] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 765 | Rata-rata Umum: 83.83
+[2025-08-29 03:58:49] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 03:58:59] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 03:59:01] Dashboard diakses | Jumlah Santri: 11 | Nilai Tertinggi: 765 | Rata-rata Umum: 76.79
+[2025-08-29 03:59:05] Halaman Lihat Log dibuka | IP: ::1
+[2025-08-29 03:59:09] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 03:59:11] Dashboard diakses | Jumlah Santri: 11 | Nilai Tertinggi: 765 | Rata-rata Umum: 76.79
+[2025-08-29 04:01:50] User logout | IP: ::1
+[2025-08-29 04:01:54] User logout | IP: ::1
+[2025-08-29 04:01:56] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:02:01] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:02:25] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:02:33] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 04:02:35] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:02:46] User logout | IP: ::1
+[2025-08-29 04:05:29] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:05:48] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:50] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:52] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:53] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:53] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:53] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:56] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:57] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:58] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:58] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:58] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:59] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:05:59] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:06:00] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:06:00] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:06:45] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:06:45] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:06:52] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:06:52] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:06:55] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:06:55] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:06:56] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:06:56] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:07:35] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:07:35] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:07:37] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:07:37] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:07:38] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:07:38] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:07:39] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:07:39] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:09:26] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:09:27] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:09:28] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:09:28] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:11:04] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:11:06] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:11:07] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 04:11:10] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:11:11] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 90.72
+[2025-08-29 04:11:13] Halaman Lihat Log dibuka | IP: ::1
+[2025-08-29 04:11:36] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:11:49] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 04:11:52] Dashboard diakses | Jumlah Santri: 13 | Nilai Tertinggi: 4576 | Rata-rata Umum: 201.08
+[2025-08-29 04:12:04] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 04:12:07] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 04:12:10] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 04:13:28] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 04:13:30] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 4576 | Rata-rata Umum: 197.50
+[2025-08-29 04:19:03] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 4576 | Rata-rata Umum: 197.50
+[2025-08-29 04:19:39] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 4576 | Rata-rata Umum: 197.50
+[2025-08-29 04:21:54] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 04:21:57] Halaman Lihat Data dibuka | IP: ::1
+[2025-08-29 04:22:01] User logout | IP: ::1
+[2025-08-29 04:25:22] User logout dari sistem
+[2025-08-29 04:25:40] Halaman Input Data diakses
+[2025-08-29 04:25:51] Halaman Input Data diakses
+[2025-08-29 04:25:53] Dashboard diakses | Jumlah Santri: 13 | Nilai Tertinggi: 4576 | Rata-rata Umum: 189.08
+[2025-08-29 04:26:01] User logout dari sistem
+[2025-08-29 04:28:37] User logout dari sistem
+[2025-08-29 04:31:46] User admin login ke sistem
+[2025-08-29 04:31:46] Dashboard diakses | Jumlah Santri: 13 | Nilai Tertinggi: 4576 | Rata-rata Umum: 189.08
+[2025-08-29 04:31:58] User logout dari sistem
+[2025-08-29 04:32:03] User admin login ke sistem
+[2025-08-29 04:32:03] Dashboard diakses | Jumlah Santri: 13 | Nilai Tertinggi: 4576 | Rata-rata Umum: 189.08
+[2025-08-29 04:37:52] Halaman Input Data diakses
+[2025-08-29 04:38:01] Halaman Input Data diakses
+[2025-08-29 04:38:04] Halaman Input Data diakses
+[2025-08-29 04:38:10] Halaman Input Data diakses
+[2025-08-29 04:38:13] Halaman Input Data diakses
+[2025-08-29 04:38:15] User logout dari sistem
+[2025-08-29 04:38:17] User admin login ke sistem
+[2025-08-29 04:38:17] Halaman Input Data diakses
+[2025-08-29 04:42:04] Halaman Input Data diakses
+[2025-08-29 04:42:12] Data baru ditambahkan | Nama: ilham | IT: 55 | Inggris: 33 | Diniyah: 33
+[2025-08-29 04:42:12] Halaman Input Data diakses
+[2025-08-29 04:42:14] User logout dari sistem
+[2025-08-29 04:42:15] User admin login ke sistem
+[2025-08-29 04:42:15] Halaman Input Data diakses
+[2025-08-29 04:42:22] Halaman Input Data diakses
+[2025-08-29 04:42:26] Halaman Input Data diakses
+[2025-08-29 04:42:29] Halaman Input Data diakses
+[2025-08-29 04:42:31] Halaman Input Data diakses
+[2025-08-29 04:42:33] Halaman Input Data diakses
+[2025-08-29 04:45:12] Halaman Input Data diakses
+[2025-08-29 04:45:19] Data baru ditambahkan | Nama: popi | IT: 44 | Inggris: 33 | Diniyah: 22
+[2025-08-29 04:45:21] Halaman Input Data diakses
+[2025-08-29 04:45:25] Halaman Input Data diakses
+[2025-08-29 04:45:30] Halaman Input Data diakses
+[2025-08-29 04:47:33] Halaman Input Data diakses
+[2025-08-29 04:47:35] Dashboard diakses | Jumlah Santri: 15 | Nilai Tertinggi: 765 | Rata-rata Umum: 61.76
+[2025-08-29 04:47:42] User logout dari sistem
+[2025-08-29 04:47:44] User admin login ke sistem
+[2025-08-29 04:47:44] Dashboard diakses | Jumlah Santri: 15 | Nilai Tertinggi: 765 | Rata-rata Umum: 61.76
+[2025-08-29 04:47:48] Halaman Input Data diakses
+[2025-08-29 04:48:03] Halaman Input Data diakses
+[2025-08-29 04:48:26] Halaman Input Data diakses
+[2025-08-29 04:48:35] Data baru ditambahkan | Nama: ilham | IT: 77 | Inggris: 66 | Diniyah: 55
+[2025-08-29 04:48:35] Dashboard diakses | Jumlah Santri: 16 | Nilai Tertinggi: 765 | Rata-rata Umum: 62.02
+[2025-08-29 04:49:27] Dashboard diakses | Jumlah Santri: 16 | Nilai Tertinggi: 765 | Rata-rata Umum: 62.02
+[2025-08-29 04:56:08] Dashboard diakses | Jumlah Santri: 16 | Nilai Tertinggi: 765 | Rata-rata Umum: 62.02
+[2025-08-29 04:56:10] User logout dari sistem
+[2025-08-29 04:57:27] Halaman Input Data diakses
+[2025-08-29 04:57:36] Data baru ditambahkan | Nama: ilham | IT: 77 | Inggris: 66 | Diniyah: 99999999
+[2025-08-29 04:57:36] Dashboard diakses | Jumlah Santri: 17 | Nilai Tertinggi: 100000142 | Rata-rata Umum: 1,960,845.47
+[2025-08-29 04:57:46] Halaman Input Data diakses
+[2025-08-29 04:57:49] Dashboard diakses | Jumlah Santri: 17 | Nilai Tertinggi: 100000142 | Rata-rata Umum: 1,960,845.47
+[2025-08-29 04:57:51] User logout dari sistem
+[2025-08-29 04:57:53] User admin login ke sistem
+[2025-08-29 04:57:53] Dashboard diakses | Jumlah Santri: 17 | Nilai Tertinggi: 100000142 | Rata-rata Umum: 1,960,845.47
+[2025-08-29 04:57:55] Halaman Input Data diakses
+[2025-08-29 05:06:46] User logout dari sistem
+[2025-08-29 05:06:48] User admin login ke sistem
+[2025-08-29 05:06:48] Dashboard diakses | Jumlah Santri: 17 | Nilai Tertinggi: 100000142 | Rata-rata Umum: 1,960,845.47
+[2025-08-29 05:06:50] Halaman Input Data diakses
+[2025-08-29 05:06:53] Halaman Input Data diakses
+[2025-08-29 09:26:10] Halaman Input Data diakses
+[2025-08-29 09:26:19] Data baru ditambahkan | Nama: ilham | IT: 44 | Inggris: 33 | Diniyah: 22
+[2025-08-29 09:26:19] Dashboard diakses | Jumlah Santri: 18 | Nilai Tertinggi: 100000142 | Rata-rata Umum: 1,851,911.44
+[2025-08-29 09:28:15] User logout dari sistem
+[2025-08-29 09:28:20] User admin login ke sistem
+[2025-08-29 09:28:20] Dashboard diakses | Jumlah Santri: 18 | Nilai Tertinggi: 100000142 | Rata-rata Umum: 1,851,911.44
+[2025-08-29 09:28:22] Halaman Input Data diakses
+[2025-08-29 09:28:35] Halaman Input Data diakses
+[2025-08-29 09:28:38] Dashboard diakses | Jumlah Santri: 17 | Nilai Tertinggi: 765 | Rata-rata Umum: 60.31
+[2025-08-29 09:29:43] User logout dari sistem
+[2025-08-29 09:29:44] User admin login ke sistem
+[2025-08-29 09:29:44] Dashboard diakses | Jumlah Santri: 17 | Nilai Tertinggi: 765 | Rata-rata Umum: 60.31
+[2025-08-29 09:29:45] Halaman Input Data diakses
+[2025-08-29 09:29:48] Halaman Input Data diakses
+[2025-08-29 09:33:22] Dashboard diakses | Jumlah Santri: 17 | Nilai Tertinggi: 765 | Rata-rata Umum: 60.31
+[2025-08-29 09:54:38] Dashboard diakses | Jumlah Santri: 11 | Nilai Tertinggi: 765 | Rata-rata Umum: 81.21
+[2025-08-29 09:54:41] Halaman Input Data diakses
+[2025-08-29 09:55:42] Halaman Input Data diakses
+[2025-08-29 09:55:50] Data baru ditambahkan | Nama: ilham | IT: 55 | Inggris: 33 | Diniyah: 22
+[2025-08-29 09:55:50] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 77.50
+[2025-08-29 09:55:51] Halaman Input Data diakses
+[2025-08-29 09:55:54] Halaman Input Data diakses
+[2025-08-29 09:57:13] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 77.50
+[2025-08-29 09:57:16] User logout | IP: ::1
+[2025-08-29 09:57:19] Halaman Input Data diakses
+[2025-08-29 09:57:21] Halaman Input Data diakses
+[2025-08-29 09:57:24] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 77.50
+[2025-08-29 09:57:32] User logout | IP: ::1
+[2025-08-29 10:02:46] User 'admin' berhasil login | IP: ::1
+[2025-08-29 10:02:55] User 'admin' berhasil login | IP: ::1
+[2025-08-29 10:10:23] User admin login
+[2025-08-29 10:10:23] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 77.50
+[2025-08-29 10:10:29] User logout
+[2025-08-29 10:10:30] User admin login
+[2025-08-29 10:10:31] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 77.50
+[2025-08-29 10:10:33] Halaman Input Data diakses
+[2025-08-29 10:10:36] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 10:10:38] User logout
+[2025-08-29 10:12:46] Dashboard diakses | Jumlah Santri: 12 | Nilai Tertinggi: 765 | Rata-rata Umum: 77.50
+[2025-08-29 10:50:58] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:18:54] Data baru ditambahkan | Nama: ilham | IT: 66 | Inggris: 44 | Diniyah: 33
+[2025-08-29 11:18:55] Dashboard diakses | Jumlah Santri: 13 | Nilai Tertinggi: 765 | Rata-rata Umum: 75.21
+[2025-08-29 11:19:08] User logout
+[2025-08-29 11:19:10] User admin login
+[2025-08-29 11:19:10] Dashboard diakses | Jumlah Santri: 13 | Nilai Tertinggi: 765 | Rata-rata Umum: 75.21
+[2025-08-29 11:19:13] Halaman Input Data diakses
+[2025-08-29 11:19:15] Dashboard diakses | Jumlah Santri: 13 | Nilai Tertinggi: 765 | Rata-rata Umum: 75.21
+[2025-08-29 11:19:17] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:22:27] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:25:46] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:25:54] Data baru ditambahkan | Nama: ilham | IT: 99999999999999 | Inggris: 9999999999999999 | Diniyah: 9999999999999999
+[2025-08-29 11:25:55] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:00] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:02] User logout
+[2025-08-29 11:26:03] User admin login
+[2025-08-29 11:26:03] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:06] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:07] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:08] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:08] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:08] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:09] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:26:11] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:27:00] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:27:05] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:27:21] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:27:24] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:29:02] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:29:11] Halaman Input Data diakses
+[2025-08-29 11:29:14] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:29:19] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:30:06] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:30:07] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:30:41] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:31:08] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:31:13] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:31:41] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:31:47] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:32:47] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:32:50] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:33:04] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:33:06] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:33:11] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:33:12] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:33:14] Halaman Input Data diakses
+[2025-08-29 11:33:15] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:33:18] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:33:20] User logout
+[2025-08-29 11:33:21] User admin login
+[2025-08-29 11:33:21] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:36:51] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:53:40] Dashboard diakses | Jumlah Santri: 14 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 153,391,758.90
+[2025-08-29 11:53:42] Halaman Input Data diakses
+[2025-08-29 11:57:06] Halaman Input Data diakses
+[2025-08-29 11:57:11] Halaman Input Data diakses
+[2025-08-29 11:57:13] Halaman Input Data diakses
+[2025-08-29 11:57:17] Halaman Input Data diakses
+[2025-08-29 11:57:20] Halaman Input Data diakses
+[2025-08-29 11:57:22] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-29 11:57:23] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:57:24] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-29 11:57:25] Halaman Input Data dibuka | IP: ::1
+[2025-08-29 11:57:27] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-29 11:57:30] User logout
+[2025-08-29 11:57:31] User admin login
+[2025-08-29 11:57:31] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-29 11:57:34] Halaman Input Data diakses
+[2025-08-29 11:57:36] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-29 12:29:26] User admin login
+[2025-08-29 12:29:26] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-29 12:29:32] User admin login
+[2025-08-29 12:29:32] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-29 12:31:47] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:02:11] Halaman Input Data dibuka | IP: ::1
+[2025-08-30 06:02:19] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:02:19] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:02:42] Halaman Input Data dibuka | IP: ::1
+[2025-08-30 06:02:43] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:06:01] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:28:33] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:29:20] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:30:06] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:31:04] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:31:07] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:31:58] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:36:57] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:37:01] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:37:45] User logout
+[2025-08-30 06:37:47] User admin login
+[2025-08-30 06:37:47] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:37:51] Halaman Input Data dibuka | IP: ::1
+[2025-08-30 06:37:52] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:37:54] Halaman Input Data dibuka | IP: ::1
+[2025-08-30 06:37:56] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 214,748,443.03
+[2025-08-30 06:37:58] Halaman Input Data dibuka | IP: ::1
+[2025-08-30 06:38:18] Data baru ditambahkan | Nama: bng salim | IT: 99 | Inggris: 88 | Diniyah: 100
+[2025-08-30 06:38:18] Dashboard diakses | Jumlah Santri: 11 | Nilai Tertinggi: 6442450941 | Rata-rata Umum: 195,225,866.00
+[2025-08-30 06:38:50] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:39:37] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:39:37] Halaman Input Data dibuka | IP: ::1
+[2025-08-30 06:40:09] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:40:10] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:47:14] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:47:51] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:52:05] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:52:09] Halaman Input Data dibuka | IP: ::1
+[2025-08-30 06:52:10] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:52:12] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-08-30 06:52:14] User logout
+[2025-08-30 06:52:15] User admin login
+[2025-08-30 06:52:15] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-09-01 02:13:23] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-09-01 02:14:06] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-09-01 02:14:09] Halaman Input Data dibuka | IP: ::1
+[2025-09-01 02:14:11] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-09-01 02:14:13] User logout
+[2025-09-01 02:14:17] User logout
+[2025-09-01 02:14:20] User admin login
+[2025-09-01 02:14:20] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 866842 | Rata-rata Umum: 28,973.83
+[2025-09-01 02:15:13] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 765 | Rata-rata Umum: 79.63
+[2025-09-01 02:15:40] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-09-01 02:28:44] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-09-05 03:17:32] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-09-05 03:17:44] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-09-05 03:17:46] Halaman Input Data dibuka | IP: ::1
+[2025-09-05 03:17:49] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-09-05 03:17:52] User logout
+[2025-09-05 03:17:53] User admin login
+[2025-09-05 03:17:53] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-09-18 05:15:42] User admin login
+[2025-09-18 05:15:42] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-09-18 05:15:47] User logout
+[2025-09-18 05:15:51] User admin login
+[2025-09-18 05:15:51] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-09-18 05:15:55] User logout
+[2025-12-02 15:27:18] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-12-02 15:27:20] Halaman Input Data dibuka | IP: ::1
+[2025-12-02 15:27:30] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87
+[2025-12-02 15:41:16] Dashboard diakses | Jumlah Santri: 10 | Nilai Tertinggi: 4294967303 | Rata-rata Umum: 143,165,655.87

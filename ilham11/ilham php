@@ -1,0 +1,183 @@
+<html>
+    <title>belajar htm </title>
+    <head>
+    <body>
+    nama:ilham,<br>
+    sopan soleh<br>
+    <table
+    ><tr>
+     <td><b>nama<b></td>
+        <td>:</td>
+     <td>ilham</td>
+  </tr>
+      <tr>
+            <td><b>alamt<b></td>
+           <td>:</td>
+           <td>sopan
+  </tr>
+      <tr>
+             <Td><b>hobi<b></b></Td>
+                   <td>:</td>
+               <td>soleh</td>
+         </tr>
+        <tr>
+      </td>
+     <TD>
+     </table>
+         </body>
+          </htm1>
+          ="10" ce<table border="1" ce11spadding11spcing="0">
+            <tr>
+                <TD rowspan="2">nama</TD>
+                <td colspan="3">mata pelajar</td>
+                
+            </tr>
+            <tr>
+                <td>IT</td>
+                <td>bahasa inggris</td>
+            </tr>
+            <tr>
+                <Td>budi</Td>
+                <td>85</td>
+                <td>90</td>
+                <td>175</td>
+            </tr>
+            <tr>
+                <td>siti</td>
+                <td>88</td>
+                <td>92</td>
+                <td>180</td>
+            </tr>
+            </table>
+            <table border="1" ce11spadding="10" ce11spcing="0" style="background-color:rgb(22, 228, 200);color:white; <text-align:center; ">
+            <tr>
+                <Td rowspan="2">nama</Td>
+                <td colspan="3">mata pelajar</td>
+                <td rowspan="2"></td>
+                </tr>
+                <tr>
+                    <td>khiar</td>
+                    <td>ardani</td>
+                    <td>adhan</td>
+                </tr>
+                <tr>
+                    <td><b>enggris<b></td>
+                    <td>90</td>
+                    <td>55</td>
+                    <td>99</td>
+                    </tr>
+                    <tr>
+                        <td>diniyah</td>
+                        <td class="it">44</td>
+                        <td class="eng">44</td>
+                        <td class="total"></td>
+                        </tr>
+                     <tr>
+                        <td>it</td>
+                        <td class="33"></td>
+                        <td class="33"></td>
+                        <td class="33"></td>
+                        </tr>
+                        <tr>
+                            <td>total</td>
+                            <td class="">></td>
+                            <td class=""></td>
+                            <td class=""></td>
+                </tr>
+                <tr>
+                </table>
+                <table id="nilaiTable" border="3" cellpadding="10" cellspacing="0">
+  <tr>
+    <td rowspan="2">Nama</td> <!-- gabung 2 baris -->
+    <td colspan="2">Mata Pelajaran</td> <!-- gabung 2 kolom -->
+    <td rowspan="2">Total Nilai</td>
+  </tr>
+  <tr>
+    <td>IT</td>
+    <td>Bahasa Inggris</td>
+  </tr>
+  <tr>
+    <td>Budi</td>
+    <td class="it">99</td>
+    <td class="eng">79</td>
+    <td class="total"></td>
+  </tr>
+  <tr>
+    <td>Siti</td>
+    <td class="it">10</td>
+    <td class="eng">10</td>
+    <td class="total"></td>
+  </tr>
+</table>
+
+<script>
+  // ambil semua baris tabel (kecuali header)
+  const rows = document.querySelectorAll("#nilaiTable tr");
+
+  rows.forEach((row, index) => {
+    if (index > 1) { // skip header
+      const it = parseInt(row.querySelector(".it").textContent);
+      const eng = parseInt(row.querySelector(".eng").textContent);
+      const total = it + eng;
+      row.querySelector(".total").textContent = total;
+    }
+  });
+</script>
+<table id="nilaiTable" border="1" cellpadding="10" cellspacing="0"
+       style="background-color:blue; color:white; text-align:center; border-collapse:collapse;">
+  <tr>
+    <td rowspan="2">Matpel</td>
+    <td colspan="3">Nama</td>
+  </tr>
+  <tr>
+    <td>Khiar</td>
+    <td>Ardani</td>
+    <td>Adhan</td>
+  </tr>
+  <tr>
+    <td>DINIYAH</td>
+    <td class="khiar">8</td>
+    <td class="ardani">99</td>
+    <td class="adhan">80</td>
+  </tr>
+  <tr>
+    <td>ENGLISH</td>
+    <td class="khiar">6</td>
+    <td class="ardani">85</td>
+    <td class="adhan">88</td>
+  </tr>
+  <tr>
+    <td>IT</td>
+    <td class="khiar">9</td>
+    <td class="ardani">90</td>
+    <td class="adhan">80</td>
+  </tr>
+  <tr>
+    <td>Total</td>
+    <td id="totalKhiar"></td>
+    <td id="totalArdani"></td>
+    <td id="totalAdhan"></td>
+  </tr>
+</table>
+
+<script>
+  // fungsi untuk menjumlahkan nilai berdasarkan class
+  function sumByClass(className) {
+    const cells = document.querySelectorAll("." + className);
+    let total = 0;
+    cells.forEach(cell => {
+      total += parseInt(cell.textContent);
+    });
+    return total;
+  }
+
+  // isi total per nama
+  document.getElementById("totalKhiar").textContent = sumByClass("khiar");
+  document.getElementById("totalArdani").textContent = sumByClass("ardani");
+  document.getElementById("totalAdhan").textContent = sumByClass("adhan");
+</script>
+
+</body>
+</html>
+   <table border=""
+   

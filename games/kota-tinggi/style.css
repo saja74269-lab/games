@@ -1,0 +1,25 @@
+body{
+font-family: Arial;
+background:#0f172a;
+color:white;
+text-align:center;
+}
+
+canvas{
+background:#e5e7eb;
+border:3px solid #4d0ff7;
+margin-top:10px;
+}
+
+.ui button, select{
+margin:4px;
+padding:6px 10px;
+border:none;
+border-radius:6px;
+cursor:pointer;
+}
+
+.bar{
+margin:8px;
+font-size:18px;
+}

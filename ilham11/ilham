@@ -1,0 +1,43 @@
+<html>
+</tr>
+<tr>
+    <table id="nilaiTable" border="1" cellpadding="10" cellspacing="0"
+</tr>
+<tr></tr>
+    <td rowspan="2">WAKTU</td>
+    <td colspan="3">SINEN</td>
+    <td colspan="3">SELASA</td>
+  </tr>
+  <tr>
+    <td>VII<></td>
+    <td>X-RPL</td>
+    <td>XI-RPL</td>
+    <td>VII<></td>
+</tr>
+  <tr>
+    <td>04.30-60.00</td>
+    <td class="khiar"></td>
+    <td class="ardani">sholat subuh dan Halaqoh Tahfidz</td>
+    <td class="adhan"></td>
+  </tr>
+  <tr>
+    <td>07.00.07.45</td>
+    <td class="khiar">IT</td>
+    <td class="ardani">IT</td>
+    <td class="adhan">ENGLISH</td>
+    <td class="kahir">ENGLISH</td>
+    <td class="ardani">ENGLISH</td>
+  </tr>
+  <tr>
+    <td>07.45-08.30</td>
+    <td class="khiar">IT</td>
+    <td class="ardani">IT</td>
+    <td class="adhan">ENGLISH</td>
+  </tr>
+  <tr>
+    <td>08.30-09.15</td>
+    <td id="totalKhiar">IT</td>
+    <td id="totalArdani">IT</td>
+    <td id="totalAdhan">Shorof</td>
+  </tr>
+</table>

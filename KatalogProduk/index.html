@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Katalog Produk</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f6fa;
+    }
+    /* === NAVBAR === */
+    nav {
+      background: #2d3436;
+      color: #fff;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 20px;
+    }
+    nav .logo {
+      font-size: 20px;
+      font-weight: bold;
+    }
+    nav ul {
+      list-style: none;
+      display: flex;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      margin-left: 20px;
+    }
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 14px;
+      transition: 0.3s;
+    }
+    nav ul li a:hover {
+      color: #74b9ff;
+    }
+    /* === HEADER === */
+    header {
+      background: #0984e3;
+      color: #fff;
+      text-align: center;
+      padding: 30px 15px;
+    }
+    header h1 {
+      margin: 0;
+    }
+    /* === SECTION UMUM === */
+    section {
+      max-width: 900px;
+      margin: 30px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    section h2 {
+      color: #2d3436;
+      margin-top: 0;
+    }
+    section p {
+      color: #636e72;
+      line-height: 1.7;
+    }
+    /* === KATALOG === */
+    .container {
+      max-width: 1100px;
+      margin: 20px auto 40px;
+      padding: 10px;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+    .card {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      overflow: hidden;
+      transition: transform 0.3s;
+    }
+    .card:hover {
+      transform: scale(1.03);
+    }
+    .card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+    .card-content {
+      padding: 15px;
+    }
+    .card-content h3 {
+      margin: 0 0 10px;
+      font-size: 18px;
+      color: #2d3436;
+    }
+    .card-content p {
+      font-size: 14px;
+      color: #636e72;
+      margin: 0 0 10px;
+    }
+    .price {
+      font-size: 16px;
+      font-weight: bold;
+      color: #0984e3;
+      margin-bottom: 8px;
+    }
+    .keunggulan {
+      font-size: 13px;
+      color: #2d3436;
+      margin: 10px 0;
+      padding-left: 18px;
+    }
+    .keunggulan li {
+      margin-bottom: 5px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 10px;
+      padding: 8px 12px;
+      background: #0984e3;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #74b9ff;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav>
+    <div class="logo">Toko ilham madani bari </div>
+    <ul>
+      <li><a href="index.html">Beranda</a></li>
+      <li><a href="KatalogProduk.html">Katalog Produk</a></li>
+      <li><a href="#">Tentang</a></li>
+      <li><a href="#">Kontak</a></li>
+    </ul>
+  </nav>
+
+  <!-- HEADER -->
+  <header>
+    <h1>Katalog Produk</h1>
+    <p>Pilih produk terbaik untuk kebutuhan Anda</p>
+  </header>
+
+  <!-- PENJELASAN PRODUK UMUM -->
+  <section>
+    <h2>Penjelasan Produk</h2>
+    <p>
+      Produk-produk kami dipilih dengan teliti untuk memberikan kualitas terbaik dengan harga yang terjangkau.
+      Setiap produk dirancang agar sesuai dengan kebutuhan sehari-hari, mulai dari gaya hidup, pekerjaan,
+      hingga hiburan Anda.
+    </p>
+  </section>
+
+  <!-- KATALOG -->
+  <div class="container">
+    <!-- PRODUK 1 -->
+    <div class="card">
+      <img src="hpjelek.PNG" alt="Produk 1">
+      <div class="card-content">
+        <h3>Produk 1</h3>
+        <p>Keunggulan Produk 1.</p>
+        <p class="price">Rp 150.000</p>
+        <ul class="keunggulan">
+          <li> berkualitas tinggi Tahan Air </li>
+          <li>Desain simpel & elegan</li>
+          <li>Garansi 6 bulan</li>
+        </ul>
+        <a href="https://shopee.co.id/realme-Note-60-6-128GB-Warna-Hitam-Biru-Chipset-UNISOC-T612-Kamera-32MP-HD-Tahan-Air-IP64-Garansi-Resmi-i.1474183997.28476577823?sp_atk=0f56fffa-3838-4539-bd7d-69db92bb5071&xptdk=0f56fffa-3838-4539-bd7d-69db92bb5071" class="btn">Beli Sekarang</a>
+      </div>
+    </div>
+
+    <!-- PRODUK 2 -->
+    <div class="card">
+      <img src="gg.PNG" alt="Produk 2">
+      <div class="card-content">
+        <h3>Produk 2</h3>
+        <p>Keunggulan Produk 2.</p>
+        <p class="price">Rp 250.000</p>
+        <ul class="keunggulan">
+          <li>Kualitas premium  RAM 8/256GB </li>
+          <li>Cocok untuk kerja & santai</li>
+          <li>Gratis ongkir</li>
+        </ul>
+        <a href="https://shopee.co.id/HP-vivo-Y17-RAM-8-256GB-New-99-Garansi-Toko-1-Tahun-Murah-i.1609966996.29740141468?sp_atk=081dffd1-ee46-4089-94a4-831605aa9155&xptdk=081dffd1-ee46-4089-94a4-831605aa9155" class="btn">Beli Sekarang</a>
+      </div>
+    </div>
+
+    <!-- PRODUK 3 -->
+    <div class="card">
+      <img src="gabut ici boss.PNG" alt="Produk 3">
+      <div class="card-content">
+        <h3>Produk 3</h3>
+        <p>Keunggulan Produk 3.</p>
+        <p class="price">Rp 878.000</p>
+        <ul class="keunggulan">
+          <li>Material tahan lama</li>
+          <li>Desain  RAM 8GB+256GB Fast Charging Handphone Android Smartphone</li>
+          <li>Garansi resmi</li>
+        </ul>
+        <a href="https://shopee.co.id/VIVO-Y33S-terbaru-HP-Murah-Cuci-Gudang-RAM-8GB-256GB-Fast-Charging-Handphone-Android-Smartphone-i.893640940.42011671480?sp_atk=e32aeffa-212c-4baa-8913-fb41b5b90e49&xptdk=e32aeffa-212c-4baa-8913-fb41b5b90e49" class="btn">Beli Sekarang</a>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
